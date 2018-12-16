@@ -4,3 +4,5 @@ Third commit
 Fourth commit added to a files
 Fifth commit added to a files
 Text added from test_dev
+
+Dumb text adde from front_dev
