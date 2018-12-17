@@ -3,6 +3,11 @@ Dumb text added to files
 Third commit
 Fourth commit added to a files
 Fifth commit added to a files
+<<<<<<< Updated upstream
 Text added from test_dev
 
 Dumb text adde from front_dev
+=======
+
+Added to test_dev
+>>>>>>> Stashed changes
