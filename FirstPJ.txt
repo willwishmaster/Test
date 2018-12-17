@@ -6,8 +6,12 @@ Fifth commit added to a files
 <<<<<<< Updated upstream
 Text added from test_dev
 
+<<<<<<< HEAD
 Dumb text adde from front_dev
 =======
 
 Added to test_dev
 >>>>>>> Stashed changes
+=======
+Dumb text adde from front_dev its what i want
+>>>>>>> garbage
