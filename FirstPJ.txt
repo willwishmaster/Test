@@ -15,3 +15,4 @@ Added to test_dev
 =======
 Dumb text adde from front_dev its what i want
 >>>>>>> garbage
+Text for remote branch
